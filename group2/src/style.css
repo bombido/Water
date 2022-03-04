@@ -1,0 +1,74 @@
+
+body{
+	background-color:black;
+}
+
+.sensor
+{
+	position: fixed;
+ 
+  width: 300px;
+  border: 3px solid red;
+}
+
+
+#ph{
+	height: 250px;
+  width: 250px;
+   bottom: 350;
+  right: 1075;
+  background-color: orange;
+	
+
+}
+
+#tds{
+	height: 250px;
+  width: 250px;
+   bottom: 350;
+  right: 750;
+  background-color: orange;
+	
+
+}
+
+#temp{
+	height: 250px;
+  width: 250px;
+   bottom: 350;
+  right: 425;
+  background-color: orange;
+	
+
+}
+
+.input{
+position: fixed;
+ bottom:200;
+ right:450;
+}
+
+ #phIn{
+	 padding: 20px;
+	margin-left: 50px;
+
+ }
+ #tdsIn{
+	 padding: 20px;
+	 margin-left: 50px;
+	 margin-right: 20px;
+ }
+ #tempIn{
+	 padding: 20px;
+	 margin-left: 50px;
+ }
+ 
+ #submit{
+	 margin-left: 50px;
+ }
+
+
+
+
+
+
