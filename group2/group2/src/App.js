@@ -27,7 +27,7 @@ function App() {
 
           <Route path="/login" element={<Login />}></Route>
           <Route path="/tox" element={<Tox />}></Route>
-          <Route path="/Maptox" element={<MapTox />}></Route>
+          <Route path="/maptox" element={<MapTox />}></Route>
         </Routes>
       </React.Fragment>
     </Router>
